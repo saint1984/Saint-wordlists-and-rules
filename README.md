@@ -9,3 +9,5 @@ the_saint_vX.txt : el diccionario base que incluye: todos los nombres y apellido
 saint_vX.rule : archivo base de reglas, que incluye los patrones más habituales extrapolados.
 
 saint_rare_patterns_vX.rule : archivo de reglas con patrones descubiertos pero no habituales.
+
+El proyecto se irá actualizando conforme incorpore nuevas palabras comunes (la base de un diccionario de linguistica no incluye plurales, femeninos, etc...) asi como nombres de personajes, marcas, etc...
