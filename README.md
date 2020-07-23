@@ -11,3 +11,5 @@ saint_vX.rule : archivo base de reglas, que incluye los patrones más habituales
 saint_rare_patterns_vX.rule : archivo de reglas con patrones descubiertos pero no habituales.
 
 El proyecto se irá actualizando conforme incorpore nuevas palabras comunes (la base de un diccionario de linguistica no incluye plurales, femeninos, etc...) asi como nombres de personajes, marcas, etc...
+
+Agradecimientos a BhindU (https://github.com/BhindU) por su ayuda en la extracción y pruebas de este proyecto, sin el cual su desarrollo habría sido mucho más largo y tedioso.
